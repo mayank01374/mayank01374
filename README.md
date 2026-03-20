@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=%2300C2FF&center=true&width=520&height=45&lines=Backend+%26+Systems+Engineering;Problem+Solver;Full+Stack+Developer;DevOps+%7C+Cloud+%7C+Distributed+Systems;Building+real+products+that+ship;Always+learning+something+hard" />
 </p>
-
 <p align="center">
   Final-year Electronics and Electrical Engineering student at IIT Guwahati, passionate about backend engineering, distributed systems, DevOps, and building products from idea to deployment.
 </p>
